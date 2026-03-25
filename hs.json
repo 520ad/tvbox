@@ -4,15 +4,6 @@
 	"logo": "https://s1.imagehub.cc/images/2025/05/02/8b228ea6855dd7c79b87372bab79dde2.png",
 	"sites": [
 	{
-            "key": "官采",
-            "name": "安达影视",
-            "type": 1,
-            "api": "http://dc.mmszxc.xin:17512/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-    },
-	{
             "key": "38004",
             "name": "38004",
             "type": 1,
