@@ -80,18 +80,6 @@
                 "ratio": 1.433
             }
         },
-	 {
-            "key": "AList",
-            "name": "AList｜合集",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "ext": "http://dc.mmszxc.xin:17508/js/alist.json" },
 		{
            "key": "电影天堂",
            "name": "电影天堂",
