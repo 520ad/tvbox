@@ -39,7 +39,7 @@
 		"key": "789采集",
 		"name": "789采集",
 		"type": 1,
-		"api": "https://zy.jinchancaiji.com/api.php/provide/vod/",
+		"api": "https://zy.jinchanjiexi.net/api.php/provide/vod/",
 		"playUrl": "https://jx.789jiexi.net:4433/?url=",
 		"searchable": 1,
 		"changeable": 1,
