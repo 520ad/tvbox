@@ -2,7 +2,15 @@
 	"spider": "https://zl.wpscdn.cn/2026/06/12/space_img/b7934f7a-4520-4180-bee6-cf8edfab64be.png;md5;5d388b3e0176de94a63e8c85dff7321a",
 	"wallpaper": "https://s1.imagehub.cc/images/2025/05/22/e5e4d583d58757037da053ef63fbb4eb.jpg",
 	"logo": "https://s1.imagehub.cc/images/2025/05/02/8b228ea6855dd7c79b87372bab79dde2.png",
-	"sites": [{
+	//   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+  "lives": [
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "playerType": 1
+    },
+   "sites": [{
 		"key": "豆豆",
 		"name": "🎬导航┃安达影视自用",
 		"type": 3,
