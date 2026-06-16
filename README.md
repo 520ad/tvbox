@@ -1,1 +1,1 @@
-# tvbox接口https://cdn.jsdmirror.cn/gh/520ad/tvbox@main/api.png
+# TVBox接口https://cdn.jsdmirror.cn/gh/520ad/tvbox@main/api.png
