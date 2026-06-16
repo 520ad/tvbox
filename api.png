@@ -5,14 +5,14 @@
 	//   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
     {
-      "name": "平台直播",
+      "name": "电视直播",
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "playerType": 1
     },
    "sites": [{
 		"key": "豆豆",
-		"name": "🎬导航┃安达影视自用",
+		"name": "🎬导航┃安达影视自用,配置或转卖，后果自负",
 		"type": 3,
 		"quickSearch": 0,
 		"filterable": 0,
