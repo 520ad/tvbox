@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.com/520ad/tvbox/raw/refs/heads/main/spider.jar",
+	"spider": "./spider.jar",
 	"wallpaper": "https://s1.imagehub.cc/images/2025/05/22/e5e4d583d58757037da053ef63fbb4eb.jpg",
 	"logo": "https://s1.imagehub.cc/images/2025/05/02/8b228ea6855dd7c79b87372bab79dde2.png",
 	"sites": [
@@ -13,29 +13,6 @@
             "filterable": 0
 	},
 	{
-            "key": "wanjia",
-            "name": "🔥爱优哔|综合2K",
-            "type": 1,
-            "api": "http:\/\/121.40.174.45:199\/api.php\/provide\/vod\/",
-            "playUrl": "json:http://121.40.174.45:299/sf/2Kshouquan/cache/yon111ghu.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "电视剧",
-                "电影类",
-                "综艺类",
-                "海外剧",
-                "日韩剧",
-                "动漫类",
-                "少儿类",
-                "纪录片",
-                "B站类",
-                "经典片"
-            ],
-            "ext": "http:\/\/121.40.174.45:199\/api.php\/provide\/vod\/"
-        },
-	{
 		"key": "789采集",
 		"name": "789采集",
 		"type": 1,
@@ -45,15 +22,6 @@
 		"changeable": 1,
 		"categories": ["电影", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "犯罪片", "冒险片", "动画片", "悬疑片", "武侠片", "奇幻片", "纪录片", "连续剧", "其他片", "国产剧", "港台剧", "欧美剧", "日韩剧", "其他剧", "动漫", "综艺"]
 	},
-	{
-            "key": "紫金草",
-            "name": "紫金草",
-            "type": 1,
-            "api": "https://www.zjcvod.com/api.php/provide/vod/?ac=list",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-        },
 	 {
             "key": "配置中心",
             "name": "配置｜中心",
