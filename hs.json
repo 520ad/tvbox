@@ -66,7 +66,7 @@
 		"key": "senlinzy.com",
 		"name": "♥森林(直连)",
 		"type": 1,
-		"api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+		"api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
 		"searchable": 1,
 		"filterable": 1
 	},
