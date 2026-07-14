@@ -3,3 +3,4 @@
 摸鱼  http://我不是.摸鱼儿.com
 肥猫  http://肥猫.com      http://hello.肥猫.net
 嗷呜  https://9763.kstore.vip/aowu.json
+hs https://gh-proxy.org/https://github.com/520ad/tvbox/raw/refs/heads/main/hs.json
