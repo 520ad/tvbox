@@ -36,8 +36,9 @@ https://ghproxy.cn/
 （12）南风：https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
 （13）王二小：https://9280.kstore.vip/newwex.json
 （14）东篱：https://16151.kstore.space
-（15）嗷呜：http://www.英格里希嗷呜.top/tv
+（15）嗷呜：https://9763.kstore.vip/aowu.json
 （16）潇洒：https://9877.kstore.space/single.json
+（17）hs https://gh-proxy.org/https://github.com/520ad/tvbox/raw/refs/heads/main/hs.json
 🔰影视软件下载地址
 OK影视下载地址
 蜂蜜影视下载地址
