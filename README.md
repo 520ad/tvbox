@@ -1,6 +1,6 @@
 OK影视、TVBox、影视仓配置文件，资源均来自于各路大神无私分享，如有侵权，请联系删除。🏅
 
-🔰本仓库订阅地址
+🔰订阅地址
 多仓订阅地址：
 
 https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
