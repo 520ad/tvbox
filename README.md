@@ -1,15 +1,15 @@
-OK影视、TVBox、影视仓配置文件，资源均来自于各路大神无私分享，如有侵权，请联系删除。🏅
+# OK影视、TVBox、影视仓配置文件，资源均来自于各路大神无私分享，如有侵权，请联系删除。🏅
 
-🔰订阅地址
-多仓订阅地址：
+# 🔰订阅地址
+## 多仓订阅地址：
 
 https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
-单仓订阅地址：
+## 单仓订阅地址：
 
 https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
-⚙️GitHub加速站
+# ⚙️GitHub加速站
 
 https://gh-proxy.com/
 
@@ -33,7 +33,7 @@ https://gitpr.xmcom.us.kg/
 
 https://ghproxy.cn/
 
-✨热门(TVBox、影视仓、OK影视)配置接口
+# ✨热门(TVBox、影视仓、OK影视)配置接口
 
 （1）网络接口 ： https://8815.kstore.vip/tvbox/wmz
 
@@ -87,7 +87,7 @@ https://ghproxy.cn/
 
 [宝盒下载地址](https://pan.quark.cn/s/6eef2fa1b59a)
 
-🫶使用说明
+# 🫶使用说明
 
 所有资源均收集于互联网，仅供测试研究使用，切勿商用；
 本仓库不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
