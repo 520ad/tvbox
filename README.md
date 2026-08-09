@@ -21,10 +21,6 @@ https://gh.llkk.cc/
 
 https://github.ednovas.xyz/
 
-https://gitdl.cn/
-
-https://cf.ghproxy.cc/
-
 https://ghproxy.net/
 
 
