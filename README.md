@@ -27,11 +27,6 @@ https://cf.ghproxy.cc/
 
 https://ghproxy.net/
 
-https://gh.aptv.app/
-
-https://gitpr.xmcom.us.kg/
-
-https://ghproxy.cn/
 
 # ✨热门(TVBox、影视仓、OK影视)配置接口
 
