@@ -13,11 +13,11 @@ https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/mas
 
 https://gh-proxy.com/
 
+https://gh-proxy.org
+
 https://github.catvod.com/
 
 https://gh.xxooo.cf/
-
-https://gh.llkk.cc/
 
 https://github.ednovas.xyz/
 
