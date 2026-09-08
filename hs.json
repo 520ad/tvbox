@@ -2,29 +2,37 @@
 	"spider": "https://gh-proxy.org/https://github.com/520ad/tvbox/raw/refs/heads/main/jar/spider.jar",
 	"wallpaper": "https://s1.imagehub.cc/images/2025/05/22/e5e4d583d58757037da053ef63fbb4eb.jpg",
 	"logo": "https://s1.imagehub.cc/images/2025/05/02/8b228ea6855dd7c79b87372bab79dde2.png",
-	"sites": [
-		{
-           "key": "电影天堂",
-           "name": "电影天堂",
-           "type": 1,
-           "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
-           "playUrl": "https://vip.dyttzyplay.com/?url=",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0,
-           "categories": ["伦理片"]
-        
-      
-        },
-		{
+	"sites": [{
+		"key": "精品98",
+		"name": "精品98",
+		"type": 1,
+		"api": "https://jp98.vip/api.php/provide/vod/?ac=list",
+		"playUrl": "https://jp998.vip/?url=",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	},
+	{
+		"key": "电影天堂",
+		"name": "电影天堂",
+		"type": 1,
+		"api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+		"playUrl": "https://vip.dyttzyplay.com/?url=",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"categories": ["伦理片"]
+
+	},
+	{
 		"key": "bfzy.tv",
 		"name": "暴风三级",
 		"type": 1,
 		"api": "https://bfzyapi.com/api.php/provide/vod/",
 		"playUrl": "https://vip.vipuuvip.com/?url=",
 		"searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0,
+		"quickSearch": 1,
+		"filterable": 0,
 		"categories": ["理论片", "福利"]
 	},
 	{
@@ -274,18 +282,17 @@
 		"changeable": 0,
 		"ext": "./lib/token.json"
 	}],
-	"parses": [
-     {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
+	"parses": [{
+		"name": "解析聚合",
+		"type": 3,
+		"url": "Demo"
+	},
+	{
+		"name": "Json轮询",
+		"type": 2,
+		"url": "Sequence"
+	},
+	{
 		"name": "2K",
 		"type": 0,
 		"url": "https://jx.xmflv.com/?url=",
@@ -296,65 +303,33 @@
 			}
 		}
 	},
-        {
-            "name": "2K①",
-            "type": 1,
-            "url": "https://api.jiexi.icu/feiku.php?url=",
-            "ext": {
-                "flag": [
-                    
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905",
-                    "NetFilx"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-            "name": "2K②",
-            "type": 1,
-            "url": "https://json.789jiexi.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905",
-                    "NetFilx"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        }
-	
+	{
+		"name": "2K①",
+		"type": 1,
+		"url": "https://api.jiexi.icu/feiku.php?url=",
+		"ext": {
+			"flag": [
+
+			"qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视",
+
+			"tnmb", "seven", "bilibili", "1905", "NetFilx"],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
+	},
+	{
+		"name": "2K②",
+		"type": 1,
+		"url": "https://json.789jiexi.com/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905", "NetFilx"],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
+	}
+
 	],
 	"rules": [{
 		"name": "暴风",
